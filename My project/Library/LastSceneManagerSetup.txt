@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Easy FPS/_scene.unity
+=======
+- path: Assets/Scenes/SampleScene.unity
+>>>>>>> 20a472256c66dc47b28ff1191b27c2f72f0cb032
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

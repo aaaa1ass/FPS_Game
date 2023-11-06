@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+<<<<<<< HEAD
+  tags:
+  - enemy
+=======
+  tags: []
+>>>>>>> 20a472256c66dc47b28ff1191b27c2f72f0cb032
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+<<<<<<< HEAD
+  - Gun
+=======
+  - 
+>>>>>>> 20a472256c66dc47b28ff1191b27c2f72f0cb032
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
